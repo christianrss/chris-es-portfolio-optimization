@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+multiprocess
+yfinance
+ipykernel
+ipywidgets
